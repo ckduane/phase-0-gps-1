@@ -7,7 +7,7 @@ __this is italics__
 
 [Here](http://www.wikipedia.org) is a link to Wikipedia
 
-![screenshot](phase-0-gps-1/Screen Shot 2016-05-30 at 9.07.57 PM.png)
+![screenshot](https://raw.githubusercontent.com/ckduane/phase-0-gps-1/master/Screen%20Shot%202016-05-30%20at%209.07.57%20PM.png)
 
 
 * here's a different change
